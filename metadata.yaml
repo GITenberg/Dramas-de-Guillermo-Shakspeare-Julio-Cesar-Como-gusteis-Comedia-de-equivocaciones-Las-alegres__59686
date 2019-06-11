@@ -5,6 +5,9 @@ contributor:
     agent_name: Márquez, José Arnaldo
     gutenberg_agent_id: '50571'
     url: http://www.gutenberg.org/2009/agents/50571
+covers:
+- cover_type: archival
+  image_path: 59686-h/images/cover.jpg
 creator:
   author:
     agent_name: Shakespeare, William
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/65
     wikipedia: http://en.wikipedia.org/wiki/William_Shakespeare
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59686#Dramas-de-Guillermo-Shakspeare-Julio-Cesar-Como-gusteis-Comedia-de-equivocaciones-Las-alegres_
 gutenberg_issued: '2019-06-06'
 gutenberg_type: Text
 identifiers:
